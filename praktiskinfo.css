@@ -1,0 +1,20 @@
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar {
+    background-color: #55534F
+}
+
+.praktiskinfo {
+    border-radius: 50px;
+}
+
+.accordion-button {
+    background-color: #F49800;
+    color: whitesmoke;
+}
+.accordion-button:not(.collapsed) {
+    color: black;
+    background-color: #F49800;;
+}
+
